@@ -1,7 +1,239 @@
 {
-    "link1":[],
-    "link2":[],
-    "link3":[],
-    "link4":[],
-    "link5":[]
+  "link1": [],
+  "link2": [],
+  "link3": [],
+  "link4": [],
+  "link5": [],
+  "recipe": [
+    {
+      "id": 0,
+      "title": "Biriyani",
+      "cuisine": "South Indian",
+      "img": "https://myfoodstory.com/wp-content/uploads/2018/09/The-Best-Chicken-Biryani-Recipe-2.jpg",
+      "recipe_link": "https://myfoodstory.com/chicken-biryani-recipe/",
+      "ingredients": [
+        "Rice",
+        "Meat (chicken, beef, or lamb)",
+        "Onion",
+        "Tomatoes",
+        "Yogurt",
+        "Ginger",
+        "Garlic",
+        "Green chili peppers",
+        "Spices (such as cardamom, cinnamon, cumin, coriander, turmeric, bay leaves, and cloves)",
+        "Saffron (for color and flavor)"
+      ],
+      "description": "Biriyani is a popular South Asian dish that typically consists of rice, spices, and meat (chicken, beef, or lamb), although there are also vegetarian versions."
+    },
+    {
+      "id": 1,
+      "title": "Fish curry",
+      "cuisine": "Asian",
+      "img": "https://myfoodstory.com/wp-content/uploads/2021/08/Spicy-Fish-Curry-1-1024x1536.jpg",
+      "recipe_link": "https://myfoodstory.com/spicy-kingfish-curry-with-coconut-and-tamarind-recipe/",
+      "ingredients": [
+        "Fish (such as salmon, cod, or tilapia)",
+        "Onion",
+        "Tomatoes",
+        "Ginger",
+        "Garlic",
+        "Green chili peppers",
+        "Curry powder or curry paste",
+        "Coconut milk",
+        "Lemon or lime juice",
+        "Spices (such as cumin, coriander, turmeric, and mustard seeds)",
+        "Fresh cilantro (for garnish)",
+        "Green chili peppers",
+        "Spices (such as cardamom, cinnamon, cumin, coriander, turmeric, bay leaves, and cloves)",
+        "Saffron (for color and flavor)"
+      ],
+      "description": "Fish curry is a popular dish in many countries, including India, Bangladesh, and Sri Lanka."
+    },
+    {
+      "id": 2,
+      "title": "Chole Bhature",
+      "cuisine": "North Indian",
+      "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/06/chole-bhature-recipe32-1.jpg",
+      "recipe_link": "https://www.vegrecipesofindia.com/chole-bhature/",
+      "ingredients": [
+        "Chickpeas (canned or dried)",
+        "Onion",
+        "Tomatoes",
+        "Ginger",
+        "Garlic",
+        "Green chili peppers",
+        "Spices (such as cumin, coriander, turmeric, and red chili powder)",
+        "Tinned tomato paste or puree",
+        "Lemon juice",
+        "All-purpose flour",
+        "Semolina flour",
+        "Baking powder",
+        "Salt",
+        "Yogurt",
+        "Ghee or oil (for frying)",
+        "Green chili peppers",
+        "Spices (such as cardamom, cinnamon, cumin, coriander, turmeric, bay leaves, and cloves)",
+        "Saffron (for color and flavor)"
+      ],
+      "description": "Chole Bhature is a popular North Indian dish consisting of spicy chickpeas (chole) served with deep-fried bread (bhature)."
+    },
+    {
+      "id": 3,
+      "title": "Dosa",
+      "cuisine": "South Indian",
+      "img": "https://c.ndtvimg.com/2022-12/v9j3s0vg_dosa_625x300_09_December_22.jpg?im=FaceCrop,algorithm=dnn,width=620,height=350",
+      "recipe_link": "https://www.allrecipes.com/recipe/273817/south-indian-dosa/",
+      "ingredients": [
+        "Rice",
+        "Urad dal (black lentils)",
+        "Salt",
+        "Water",
+        "Oil (for cooking)"
+      ],
+      "description": "Dosa is a popular South Indian dish consisting of a thin, crispy pancake made from a fermented batter of rice and lentils."
+    },
+    {
+      "id": 4,
+      "title": "Pasta",
+      "cuisine": "Italian",
+      "img": "https://evergoodfoods.com/wp-content/uploads/2020/04/2L1A8146-min-scaled.jpg.webp",
+      "recipe_link": "https://www.allrecipes.com/recipe/277905/spaghetti-carbonara/",
+      "ingredients": [
+        "Durum wheat flour",
+        "Eggs",
+        "Salt",
+        "Tomato sauce or canned tomatoes",
+        "Onion",
+        "Garlic",
+        "Olive oil",
+        "Fresh basil leaves",
+        "Salt and pepper"
+      ],
+      "description": "Dosa is a popular South Indian dish consisting of a thin, crispy pancake made from a fermented batter of rice and lentils."
+    },
+    {
+      "id": 5,
+      "title": "Cake",
+      "img": "https://hips.hearstapps.com/hmg-prod/images/cake-ideas-homemade-cake-flavor-ideas-1567009531.png?crop=0.668xw:1.00xh;0.149xw,0&resize=980:*",
+      "cuisine": "American",
+      "recipe_link": "https://www.food.com/recipe/perfect-vanilla-cake-482638",
+      "ingredients": [
+        "All-purpose flour",
+        "Baking powder",
+        "Salt",
+        "Sugar",
+        "Eggs",
+        "Milk",
+        "Vanilla extract",
+        "Butter or oil"
+      ],
+      "description": "Cake is a sweet baked dessert that can come in many varieties, such as chocolate, vanilla, or fruit-flavored."
+    },
+    {
+      "id": 6,
+      "title": "Ramen",
+      "cuisine": "Japanese",
+      "img": "https://c.ndtvimg.com/2021-11/555v84og_chicken-ramen_625x300_23_November_21.jpg?im=FaceCrop,algorithm=dnn,width=620,height=350",
+      "recipe_link": "https://www.allrecipes.com/recipe/246639/tonkotsu-ramen-pork-broth-ramen/",
+      "ingredients": [
+        "Chicken or beef stock",
+        "Soy sauce",
+        "Mirin (sweet cooking wine)",
+        "Sake (rice wine)",
+        "Ginger",
+        "Garlic",
+        "Dried seaweed",
+        "Green onions",
+        "Ramen noodles",
+        "Sesame oil",
+        "Soy sauce",
+        "Sliced pork",
+        "Boiled egg",
+        "Bamboo shoots",
+        "Corn",
+        "Bean sprouts",
+        "Nori (dried seaweed)",
+        "Green onions"
+      ],
+      "description": "Ramen is a Japanese noodle dish that is typically served in a meat or fish-based broth and topped with ingredients such as sliced pork, dried seaweed, and green onions."
+    },
+    {
+      "id": 7,
+      "title": "Pizza",
+      "cuisine": "Italian",
+      "img": "https://www.allrecipes.com/thmb/X6dszZx0-vqg9ReaCgf8GvdmmnI=/364x242/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/9426301-ccfa09cebf604e14a46f40fe298577a3.jpg",
+      "recipe_link": "https://www.allrecipes.com/recipe/222301/homemade-pizza-crust/",
+      "ingredients": [
+        "All-purpose flour",
+        "Active dry yeast",
+        "Salt",
+        "Sugar",
+        "Tomato sauce",
+        "Garlic",
+        "Dried oregano",
+        "Red pepper flakes",
+        "Mozzarella cheese",
+        "Pepperoni"
+      ],
+      "description": "Pizza is a popular dish that consists of a flatbread topped with sauce, cheese, and other ingredients."
+    },
+    {
+      "id": 8,
+      "title": "Salad",
+      "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2022%2F05%2F04%2Floaded-broccoli-salad.jpg&q=60",
+      "cuisine": "American",
+      "recipe_link": "https://www.allrecipes.com/recipe/23881/greek-salad/",
+      "ingredients": [
+        "Salad-greens",
+        "Tomatoes",
+        "Cucumber",
+        "Carrots",
+        "Red Onion",
+        "Salt",
+        "Cheese"
+      ],
+      "description": "Salad is a dish made from a mixture of raw or cooked ingredients, typically vegetables, that are combined and served cold or at room temperature."
+    },
+    {
+      "id": 9,
+      "title": "Omlette",
+      "cuisine": "American",
+      "img": "https://natashaskitchen.com/wp-content/uploads/2022/02/Egg-Omelette-5-1025x1536.jpg",
+      "recipe_link": "https://www.allrecipes.com/recipe/23600/basic-omelet/",
+      "ingredients": [
+        "Eggs",
+        "Milk or water",
+        "Salt",
+        "Pepper",
+        "Butter or oil",
+        "Cheese (optional)",
+        "Vegetables (optional, such as bell peppers, onions, mushrooms)",
+        "Meat (optional, such as ham or bacon)"
+      ],
+      "description": "An omelette is a dish made of beaten eggs cooked in a frying pan, usually with additional ingredients such as cheese, vegetables, or meat. "
+    },
+    {
+      "id": 10,
+      "title": "Pulao",
+      "img": "https://www.indianveggiedelight.com/wp-content/uploads/2021/01/veg-pulao-karnataka-style-1152x1536.jpg",
+      "cuisine": "Indian",
+      "ingredients": [
+        "Basmati rice",
+        "Ghee or oil",
+        "Whole spices (such as cinnamon, bay leaves, cardamom, cloves, and cumin seeds)",
+        "Onion",
+        "Ginger",
+        "Garlic",
+        "Tomatoes",
+        "Vegetables (such as carrots, peas, and potatoes)",
+        "Meat (optional, such as chicken or lamb)",
+        "Yogurt",
+        "Saffron (optional)",
+        "Lemon juice",
+        "Fresh cilantro leaves"
+      ],
+      "description": "Pulao is a type of rice dish that is popular in South Asian cuisine. It is made by cooking rice and various ingredients, such as vegetables, spices, and sometimes meat, in a seasoned broth",
+      "recipe_link": "https://www.bbcgoodfood.com/recipes/vegetable-pulao"
+    }
+  ]
 }
